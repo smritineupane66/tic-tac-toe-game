@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tic-Tac-Toe React App
 
 A **responsive Tic-Tac-Toe game** built with **React**. Features an intro screen, turn indicator, winner/draw detection, and restart functionality. Works on desktop and mobile.  
